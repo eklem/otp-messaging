@@ -1,5 +1,5 @@
 {
-  "name": "otp-encryption-decryption-toy",
+  "name": "otp-messaging",
   "version": "0.0.1",
   "description": "Toy for kids to encrypt/decrypt messages with one time pads on their phone",
   "main": "index.html",
@@ -13,7 +13,7 @@
   },
   "dependencies": {
     "otp-encryption-decryption-lib": "0.2.1",
-    "nfc-json-transfer": "eklem/nfc-json-transfer#trunk"
+    "webrtc-p2p-json-transfer": "eklem/webrtc-p2p-json-transfer#trunk"
   },
   "keywords": [
     "otp",
@@ -25,7 +25,7 @@
   "author": "Espen Klem",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/eklem/otp-encryption-decryption-toy/issues"
+    "url": "https://github.com/eklem/otp-messaging/issues"
   },
-  "homepage": "https://github.com/eklem/otp-encryption-decryption-toy#readme"
+  "homepage": "https://github.com/eklem/otp-messaging#readme"
 }
