@@ -8,6 +8,9 @@ Goal: To make it harder for corporations to aggregate kids user knowledge and po
 ### Encryption/decryption
 To encrypt a message and send it via some message tool, Messenger, SMS or something else. And receive and decrypt.
 
+## Scope and out of scope
+The actual sending and receiving of messages is out of scope for this application. It will encrypt and decrypt. And possibly have a browser extension that does the decryption part automatically.
+
 ### Generation and distribution of one-time pads
 For usage of one-time pad encryptio/decryption to be easy, the distribution of one-time pads is they key. The toy will take care of creating and distributing one-time pads and make sure pads are erased after use and that the length of the message is not longer than the key.
 
