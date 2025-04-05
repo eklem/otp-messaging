@@ -1,4 +1,4 @@
-# OTP encryption toy
+# OTP messaging
 Toy for kids to encrypt/decrypt messages with one time pads (OTP). Or OTP done playfully easy.
 
 Goal: To make it harder for corporations to aggregate kids user knowledge and police/authoroties to invade their privacy. But also teaching kids about keeping safe will be a win I think.
@@ -15,4 +15,4 @@ For usage of one-time pad encryptio/decryption to be easy, the distribution of o
 Emojis are a part of our digital language now, so the toy will be able to encrypt and decrypt all unicode emojis (1800 + skin tone variations on some of them).
 
 ## Library
-This will be the web application (for phones), and the core libraries will be found at [otp-encryption-decryption-lib](https://github.com/eklem/otp-encryption-decryption-lib)
+This will be the web application, and the core libraries will be found at [otp-encrypt-js](https://github.com/eklem/otp-encrypt-js) and [webrtc-p2p-json-transfer](https://github.com/eklem/webrtc-p2p-json-transfer/)
