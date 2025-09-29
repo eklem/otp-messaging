@@ -18,4 +18,4 @@ For usage of one-time pad encryptio/decryption to be easy, the distribution of o
 Emojis are a part of our digital language now, so the toy will be able to encrypt and decrypt all unicode emojis (1800 + skin tone variations on some of them).
 
 ## Library
-This will be the web application, and the core libraries will be found at [otp-encrypt-js](https://github.com/eklem/otp-encrypt-js) and [webrtc-p2p-json-transfer](https://github.com/eklem/webrtc-p2p-json-transfer/)
+This will be the web application, and the core libraries will be found at [otp-encrypt-js](https://github.com/eklem/otp-encrypt-js) and possibly [p2p-secure-sound-json-transfer](https://github.com/otp-encrypt-js/p2p-secure-sound-json-transfer). The last library isn't built yet, so if it will work is not a given.
