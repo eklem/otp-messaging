@@ -8,6 +8,9 @@ Goal: To make it harder for corporations to aggregate kids user knowledge and po
 ### Encryption/decryption
 To encrypt a message and send it via some message tool, Messenger, SMS or something else. And receive and decrypt.
 
+### One time pads & Local first
+To be able to encrypt and decrypt, two users need to share one or more one-time pads. That can only happen when two users meet in real life. One user generate a set of OTP's and transfer to the other. So far the thought is to do it over sound. This ensures that total strangers can't start sending encrypted messages to kids. It must be to people that agree to set it up.
+
 ## Scope and out of scope
 The actual sending and receiving of messages is out of scope for this application. It will encrypt and decrypt. And possibly have a browser extension that does the decryption part automatically.
 
